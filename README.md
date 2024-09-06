@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **side Projects**
 
-- 🌱 I’m currently learning **Laravel,Spring Boot**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **alialyaman750@gmail.com**
 
